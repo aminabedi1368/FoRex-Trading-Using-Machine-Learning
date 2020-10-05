@@ -1,0 +1,9 @@
+node_modules/**
+.idea/**
+jsonTrain.json
+jsonTrain1.json
+jsonTrain2.json
+output.json
+output-m.json
+package-lock.json
+eurusd_minute.csv
